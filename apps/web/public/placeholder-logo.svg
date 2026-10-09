@@ -1,0 +1,14 @@
+<svg width="215" height="48" viewBox="0 0 215 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="215" height="48" fill="white"/>
+  <circle cx="24" cy="24" r="13" stroke="#064E3B" stroke-width="3"/>
+  <circle cx="24" cy="24" r="5" fill="#CCFF00"/>
+  <text x="48" y="29" fill="#064E3B" font-family="Arial, sans-serif" font-size="20" font-weight="700">Alvo Essencial</text>
+</svg>
+*** Add File: apps/web/public/placeholder.svg
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F5F7F4"/>
+  <rect x="80" y="80" width="640" height="440" fill="white" stroke="#D9E2D7"/>
+  <circle cx="400" cy="260" r="64" stroke="#064E3B" stroke-width="8"/>
+  <circle cx="400" cy="260" r="22" fill="#CCFF00"/>
+  <text x="285" y="370" fill="#064E3B" font-family="Arial, sans-serif" font-size="28" font-weight="700">Alvo Essencial</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="116" viewBox="0 0 350 116" fill="none">
+  <g stroke="#075951" stroke-width="8.5">
+    <path d="M88 23A49 49 0 1 0 101 42"/>
+    <path d="M75 38A32 32 0 1 0 84 54"/>
+  </g>
+  <path d="M41 78C30 57 42 46 62 46C66 66 56 77 43 80C45 68 49 61 55 54C46 60 43 68 41 78Z" fill="#075951"/>
+  <path d="M65 58L96 25L97 13L108 2L110 13L120 15L108 27L99 28L65 62Z" fill="#ECCB37"/>
+  <g fill="#075951" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.5">
+    <text x="136" y="49">Alvo</text>
+    <text x="136" y="94">Essencial</text>
+  </g>
+</svg>
